@@ -1,0 +1,6 @@
+#format:
+#target/prog chinese target pinyin
+target 豆瓣 douban.fm douban
+target 直播 www.zhibo8.cc zhibo
+prog 代码 sourceinsight.exe daima
+prog 电影 kmplayer.exe dianyin
